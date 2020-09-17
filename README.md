@@ -5,4 +5,4 @@ Here you will find ..
 
 ### Workshops
 
-* [RNA-Seq](rna-seq)
+* [RNA-Seq](https://uoe-bio3092.github.io/rna-seq/)
