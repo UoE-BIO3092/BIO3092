@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-baseurl: /transcriptomics
+baseurl: /bio3092.github.io
 defaults:
     -
         scope:
