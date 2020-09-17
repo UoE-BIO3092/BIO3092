@@ -1,2 +1,8 @@
-# bio3092.github.io
-University of Exeter BIO3092 - Bioinformatics
+# Welcome to the UoE BIO3092 Workshop pages
+
+Here you will find ..
+
+
+### Workshops
+
+* [RNA-Seq](rna-seq)

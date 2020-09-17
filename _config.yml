@@ -1,9 +1,1 @@
 theme: jekyll-theme-cayman
-baseurl: /bio3092.github.io
-defaults:
-    -
-        scope:
-            path: ""
-            type: "pages"
-        values:
-            layout: "default"
