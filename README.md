@@ -1,6 +1,6 @@
 # Welcome to the UoE BIO3092 Workshop pages
 
-Here you will find ..
+Here you will find links to the module workshops.
 
 
 ### Workshops
